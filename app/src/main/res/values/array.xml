@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tempat">
+        <item>Police</item>
+        <item>R.S Syaiful Anwar</item>
+        <item>R.S Lavalate</item>
+        <item>R.S Wafa Husada Kepanjen</item>
+        <item>R.S Panti Nirmala</item>
+        <item>Pemadam Kebakaran</item>
+    </string-array>
+    <string-array name="des_tempat">
+        <item>Hubungi 3664444</item>
+        <item>Hubungi (0341) 362101</item>
+        <item>Hubungi (0341) 470805</item>
+        <item>Hubungi (0341) 393000</item>
+        <item>Hubungi (0341) 362459</item>
+        <item>Hubungi (0341) 364617</item>
+    </string-array>
+    <string-array name="detail_tempat">
+        <item> Kantor Polisi di Kawasan Malang Raya Akan siap Melayani Anda
+        </item>
+        <item> Rumah Sakit Syaiful Anwar Buka 24 Jam.
+        </item>
+        <item> Rumah Sakit Lavalate Buka 24 Jam.
+        </item>
+        <item> Rumah Sakit Wafa Husada Kepanjen buka 24 Jam.
+        </item>
+        <item>Rumah Sakit Panti Nirmala Buka 24 Jam.
+        </item>
+        <item>Pemadam Kebakaran akan siap melayani Anda!
+        </item>
+    </string-array>
+    <string-array name="lokasi_tempat">
+        <item>Kawasan Malang Raya</item>
+        <item>Berada Di Jl. Raya Gempol Malang</item>
+        <item>Berada Di Jl. WR.Supratman No.10 Malang</item>
+        <item>Berada di Jl.Panglima Sudirman No.99A Dilem,Kepanjen</item>
+        <item>Berada di Jl. Kebalen Wetan Kota lama KedungKandang Malang</item>
+        <item>Kawasan Malang Raya</item>
+    </string-array>
+    <array name="gambar_tempat">
+        <item>@drawable/police</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/pemadam</item>
+        <item>@drawable/pemadam</item>
+    </array>
+    <string-array name="panggil">
+        <item>@drawable/phone</item>
+    </string-array>
+    <array name="phoneNumber">
+        <item>3664444</item>
+        <item>0341362101</item>
+        <item>0341470805</item>
+        <item>0341393000</item>
+        <item>0341362459</item>
+        <item>0341364617</item>
+    </array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pictures">
+        <item>@drawable/aa</item>
+        <item>@drawable/ab</item>
+        <item>@drawable/ac</item>
+        <item>@drawable/ad</item>
+        <item>@drawable/ae</item>
+        <item>@drawable/af</item>
+        <item>@drawable/ag</item>
+    </string-array>
+    <string-array name="trans">
+        <item>Angkutan Kota</item>
+        <item>GoJek</item>
+        <item>Grab</item>
+        <item>Uber</item>
+        <item>Taksi</item>
+        <item>Macito</item>
+        <item>Becak</item>
+    </string-array>
+    <string-array name="trans_details">
+        <item>
+        Angkutan Kota alias angkot, merupakan transportasi umum di kota Malang yang jamak dijumpai. Seluruh armadanya berwarna biru. Cukup membingungkan bagi yang datang ke kota Malang untuk pertama kali. Pembedanya hanya tulisan trayek yang tertempel di beberapa sisi kendaraan. Mobilnya berjenis APV Carry sebagaimana lazimnya angkot di beberapa kota di Indonesia. Rata-rata harga angkot semua trayek di kota Malang sekitar Rp4 ribu. Meski tak semua armadanya baru, tetapi angkot di kota Malang relatif aman. Namun, mesti diingat, di atas jam 9 malam biasanya sudah mulai sulit menemukan angkot yang masih beroperasi.
+        </item>
+        <item>
+        Jika kamu terbiasa dengan transportasi berbasis online, tenang. Di kota Malang kamu juga bisa memanfaatkan GoJek untuk bepergian. GoJek biasanya beroperasi di kota Malang selama 24 jam. Biasanya, ketika musim hujan biasanya agak susah menemukan pengemudi (driver). Sebagai catatan, GoJek di Malang masih hadir di lini GoRide saja. GoCar belum tersedia, tetapi layanan lain seperti GoFood dan GoBox sudah tersedia.
+        </item>
+        <item>
+        Kota Malang Grab hadir di lini GrabCar. Namun, masih nihil GrabBike. Layanan taksi online ini bisa kamu pesan via aplikasi. Selain itu kehadiran GrabCar bisa membantumu untuk berkeliling kota Malang misalnya, manakala hari sedang hujan. Dari pengalaman saya, GrabCar mulai jarang beroperasi di atas jam 10 malam. Ada pun biasanya perlu bersabar untuk menunggu permintaan lewat aplikasi diterima oleh pengemudi.
+        </item>
+        <item>
+        Sama dengan Grab, Uber masih hadir di lini taksi saja. UberMotor belum ada di kota Malang. Namun, dibandingkan GoJek dan GrabCar, Uber lebih aktif beroperasi selama 24 jam. Termasuk jika ada penerbangan dini hari atau pagi sekali, kamu bisa memanfaatkan Uber untuk menuju Bandara Internasional Juanda Surabaya di Sidoarjo.
+        </item>
+        <item>
+        Pilihan terakhir jika memang angkot dan transportasi online gagal didapatkan, kamu bisa naik langsung atau memesan taksi. Ada beberapa armada taksi yang bisa kamu hubungi.
+        Taksi Argo Perdana: 0341-488888
+        Taksi Bima: 0341-717171
+        Taksi Citra Kendedes Malang: 0341-404040
+        Taksi Citra Kendedes Batu: 0341-599599
+        Taksi Mandala: 0341-474747
+        Khusus Taksi Garuda, hanya beroperasi untuk mengantar jemput penumpang dari dan menuju Bandara Abdurrahman Saleh Malang.
+        </item>
+        <item>
+        Singkatan dari Malang City Tour Bus merupakan transportasi umum di kota Malang yang dikhususkan untuk pariwisata. Macito ini gratis. Jika kamu hanya punya waktu singkat, tetapi ingin berkeliling kota Malang bisa naik macito.
+        Bus dua lantai ini bisa menampung 40 penumpang. Rutenya dari Balai Kota Malang – Alun-Alun Merdeka – Jalan Kawi – Jalan Ijen dan putar balik di Simpang Balapan menuju Balai Kota Malang. Namun, kadang rutenya berbeda. Apa kata supir. Yang jelas, kalau mau naik, perlu antre di depan gedung DPRD kota Malang yang jaraknya dekat dengan Stasiun Kota Malang.
+        Sementara untuk jam operasionalnya mulai 9 pagi sampai 12 siang. Khusus untuk hari Minggu, macito baru mulai beroperasi mulai 9.30 pagi, lantaran ada kegiatan car free day.
+        </item>
+        <item>
+        Di masa lalu becak mungkin jadi transportasi umum di kota Malang yang paling sering dimanfaatkan. Namun, sekarang, becak hanya hadir sebagai moda transportasi wisata saja. Keberadaannya pun tidak banyak. Hanya berada di beberapa titik kawasan bersejarah Malang saja, seperti jalan Semeru. Itupun penumpangnya kebanyakan para bule.
+        Beberapa becak ada yang dimodifikasi menjadi becak bermotor atau bentor. Dengan rute dan jarak yang terbatas, bentor di kota Malang bisa dijumpai di beberapa kawasan pasar tradisional. Tidak beroperasi di pusat kota, karena memang ada larangan dari pemerintah.
+        </item>
+    </string-array>
+</resources>

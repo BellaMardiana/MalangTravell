@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places">
+        <item>The Singhasari Resort</item>
+        <item>Jambuwuluk Batu Resort</item>
+        <item>Kartika Wijaya Batu Heritage Hotel</item>
+        <item>Royal Orchids Garden Hotel</item>
+        <item>Purnama Hotel</item>
+        <item>Kusuma Agrowisata Hotel</item>
+        <item>Kampung Lumbung Boutique Hotel</item>
+        <item>Villa Mulyono</item>
+        <item>Pondok Jatim Park Hotel</item>
+        <item>Bunga Matahari Guest House</item>
+        <item>De Daunan Boutique Guest House</item>
+        <item>The Batu Villas</item>
+        <item>Pondok Alamanda Hotel</item>
+        <item>Sumber Hotel</item>
+        <item>Villa dan Hotel Family Gradia</item>
+        <item>Hotel Prima Asri</item>
+        <item>Best Western OJ Hotel</item>
+        <item>Swiss-BelInn Hotel</item>
+        <item>Hotel Tugu</item>
+        <item>Hotel Kertanegara</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>The Singhasari Resort adalah hotel bintang 5 yang menawarkan fasilitas yang mewah dan layanan profesional. Hotel ini menyediakan 193 kamar tamu. The Singhasari Resort berjarak 3 km dari Jatim Park dan 3,2 km dari pasar buah dan sayuran. Sementara itu BNS dapat dicapai dengan jarak 3,8 km
+        </item>
+        <item>Hotel bintang 5 ini menawarkan akomodasi dengan konsep villa. Hotel ini berjarak 1,9 km dari Kebun Apel, 2,7 km dari Batu Night Spectacular, dan 2,9 km dari Pasar Batu.</item>
+        <item>Malang Hotel di kawasan Batu ini menawarkan 115 kamar tamu yang terdiri dari beberapa tipe. Berjalan 12 menit dari hotel, Anda akan menjumpai Kebun Apel. Berjalan 18 menit Anda akan mencapai Batu Night Spectacular. Hotel ini berjarak 1,6 km dari Pasar Batu. Hotel Kartika Wijaya menawarkan lokasi yang sempurna dengan layanan staf yang sangat ramah.</item>
+        <item>Hotel bintang 4 ini menawarkan akomodasi yang nyaman dengan pilihan 132 kamar tamu. Hotel yang dibangun pada tahun 1992 ini, menawarkan fasilitas yang lengkap dan mewah untuk membuat liburan Anda lebih berkesan.</item>
+        <item>Purnama Hotel ini sangat cocok bagi anda yang hobi berenang karena letaknya yang dekat sekali dengan kawasan wisata Selecta. Menyediakan kamar 158 dan fasilitas wifi gratis. Dan harga relatif murah mulai dari IDR 510.331. </item>
+        <item>Kusuma Agrowisata Hotel merupakan yang cukup murah di daerah kawasan wisata Batu. Dengan harga mulai dari Rp.452.273 merupakan harga yang sangat terjangkau bagi anda. Serta menyediakan kamar berjumlah 150 serta fasilitas Wi-Fi gratis.</item>
+        <item>Kampung Lumbung Boutique Hotel memberi pemandangan spektakuler, desain yang unik, udara segar, murni air pegunungan, alam yang besar dan lanskap semua dalam arsitektur New Java. Dengan harga mulai dari IDR 764.706.</item>
+        <item>Malang Hotel bintang 3 ini menawarkan akomodasi berkonsep villa. Ada dua villa yang dapat dipilih di Villa Mulyono ini. Semuanya menawarkan suasana yang nyaman dan tenang serta didukung dengan fasilitas premium untuk menjamin kenyamanan setiap tamu seperti dapur, taman, dan kolam renang.</item>
+        <item>Pondok Jawa Timur Park Hotel dan Cafe, Pilihan keluarga terbaik untuk tinggal di Batu, Hotel ini terletak di depan di Jawa Timur Park 1.Dengan desain arsitektur yang menarik menambah kesan mewah bagi hotel ini. Harga yang ditawarkan relatif murah kisaran IDR 351.240</item>
+        <item>Hotel terletak di Batu. Akses Wi-Fi gratis tersedia di area umum akomodasi. Museum Angkut hanya berselang 2 menit berkendara. Setiap kamar di guest house ini dilengkapi dengan TV layar datar, lemari pakaian, dan area tempat duduk. Kamar mandi pribadinya mencakup shower dan handuk.Dengan harga IDR 395.000</item>
+        <item>De Daunan menawarkan sebuah rumah tamu dengan suasana dan pengaturan alam, kehidupan yang ramah lingkungan. Hal ini bertujuan untuk menerapkan konsep back to nature dengan kombinasi pemandangan indah dan kegiatan kerajinan tradisional.</item>
+        <item>The Batu Villas menyediakan pelayanan yang ramah dan fasilitas modern. Jaminan masa menginap yang menyenangkan bagi para tamu dengan layanan yang personal dan berbagai macam fasilitas modern yang tersedia </item>
+        <item>Menawarkan sebuah kolam renang outdoor, restoran, dan parkir gratis. Semua bungalow di Alamanda Pondok memiliki arsitektur Toraja, menampilkan jendela-jendela besar yang memberikan banyak cahaya alami</item>
+        <item>Terletak dalam jarak dekat dengan lokasi wisata Batu seperti Jatim Park, Batu Night Spectacular (BNS) dan Batu Secret Zoo serta Museum Satwa yang terkenal, hotel ini menawarkan kenyamanan dan ramah lingkungan. Setiap kamar dilengkapi kamar mandi dan fasilitas kamar yang tersedia. Fasilitas termasuk ruang pertemuan dan sebuah kafe taman yang menyajikan hidangan Indonesia.</item>
+        <item>Villa dan Family Hotel Gradia menawarkan penginapan keluarga yang menyenangkan dan memberikan para tamu kesegaran dari keindahan alam Batu. Dekat dengan tempat wisata, seperti Jatim Park, Kusuma Agrowisata, Batu Night Spectacular (BNS), dan Batu Secret Zoo.</item>
+        <item>Hotel Prima Asri 153 Batu terletak di Jantung Kota Batu, lokasi strategis, bersebelahan dengan Jatim Park 2 dan tidak jauh dari area bisnis dan hiburan di Batu. Hanya 5 menit jalan kaki ke Kusuma Argo WISATA, di mana Anda dapat memetik apel segar. Kamar dilengkapi dengan kamar mandi dan sejumlah fasilitas. Para tamu juga dapat menikmati sarapan di restoran atau dalam privasi kamar Anda setiap pagi.</item>
+        <item>Best Western OJ adalah hotel dengan lokasi yang strategis dan menawarkan kemudahan bagi para wisatawan untuk mengakses berbagai atraksi wisata populer yang ada di Malang. Setiap kamar tamu di Hotel Best Western ini telah dilengkapi dengan berbagai fasilitas yang lengkap dan memadai. Hotel Best Western OJ Malang menawarkan 129 kamar tamu yang terbagi menjadi beberapa tipe yaitu Superior, Deluxe, Super Deluxe, dan Suite Junior dengan tarif mulai dari Rp. 387.066 per malam.</item>
+        <item>Hotel Swiss-BellInn terletak di pusat Kota Malang yang berjarak 4 km dari Museum Malang Tempoe Doeleoe dan 12 km dari Candi Singosari. Tersedia berbagai kelas kamar dengan varian harga yang bermacam-macam. Hotel mudah dicapai dengan angkutan umum dari terminal, stasiun maupun bandara serta mudah diakses dengan kendaraan pribadi.</item>
+        <item>Hotel Tugu terletak di pusat Kota Lama Malang dengan arsitektur kuno. Dekat dengan Kantor Balaikota, Alun-alun Malang, Monumen Tugu, Museum Malang Tempoe Doeleoe serta sangat dekat dengan Stasiun Malang.</item>
+        <item>Hotel Kertanegara adalah hotel bintang 3 yang dapat diakses dengan mudah dari Stasiun Malang yang berjarak sekitar 1.8 km dan juga dapat mengakses Museum Brawijaya yang hanya berjarak 6 menit jika ditempuh dengan jalan kaki.</item>
+    </string-array>
+    <string-array name="place_details">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>Jl. Ir. Soekarno No. 120, Kecamatan Batu, Kec. Batu, Jawa Timur 65326 (0341) 513333</item>
+        <item>Jl. Trunojoyo No. 99, Kota Batu, Jawa Timur 65312 (0341) 512999</item>
+        <item>No. 127, Gg. V, Ngaglik, Kota Batu, Jawa Timur 65311 (0341) 592600</item>
+        <item>Jl. Indragiri No.4, Pesanggrahan, Kec. Batu, Kota Batu, Jawa Timur 65318 (0341) 593083</item>
+        <item>Jl. Raya Selecta No. 1-15, Kota Batu, Jawa Timur (0341) 592700</item>
+        <item>Jl. Abdul Gani Atas, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65311 0800 1593333</item>
+        <item>Jl. Ir Sukarno, Puskesmas Dalam No 1 - Baji, Batu City, East Java 63236 0851-0444-4142</item>
+        <item>Jalan Salam, Bumiaji, Kota Batu, Jawa Timur 324006 0813-1164-6468</item>
+        <item>Jl. Kartika, Sisir, Kec. Batu, Kota Batu, Jawa Timur (0341) 591666</item>
+        <item>Jalan Suropati No. 49, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65311 (0341) 592806</item>
+        <item>Jl. Trunojoyo No. 2, Junrejo, Kec. Batu, Jawa Timur 65141 (0341) 594466</item>
+        <item>Jalan Sultan Agung No. 29, Kota Batu, Jawa Timur 65314 (0341) 592955</item>
+        <item>Jl. Bukit Berbunga No.14, Sidomulyo, Kec. Batu, Kota Batu, Jawa Timur 65317 (0341) 592717</item>
+        <item>Jl. Darsono Bar. No.14, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65311 (0341) 591467</item>
+        <item>Jalan Ikhwan Hadi No. 47 - 49, Kelurahan Ngaglik, Kecamatan Batu, Kec. Batu, Kota Batu, Jawa Timur 65311 (0341) 591812</item>
+        <item>Jalan Imam Bonjol Atas, no.36, Sisir, Kecamatan Batu, Kota Batu, Jawa Timur 65314 (0341) 595551</item>
+        <item>Jalan Dr. Cipto No. 11, Kota Malang, Jawa Timur 65111 (0341) 368888</item>
+        <item>Jalan Veteran No.8A, Penanggungan, Klojen, Kota Malang, Jawa Timur 65145 (0341) 550368</item>
+        <item>Jalan Tugu No.3, Kauman, Klojen, Malang, Kota Malang, Jawa Timur 65119 (0341) 363891</item>
+        <item>Jl. Semeru No.59, Gading Kasri, Klojen, Kota Malang, Jawa Timur 65115 (0341) 368992</item>
+        <item>Jln. Ir. Soekarno nomor 120, Batu, Malang </item>
+        <item>Jln. Trunojoyo nomor 99, Songgokerto, Batu, Malang </item>
+        <item>Jln. Panglima Sudirman no 127 Batu, Malang </item>
+        <item>Jln. Indragiri nomor 4, Batu, Malang </item>
+        <item>Jl. Raya Selekta No. 1-15, Batu, Malang</item>
+        <item>Jl. Abdul Gani Atas Batu, Batu, Malang</item>
+        <item>Jl. Ir. Soekarno - Puskesmas Beji, Batu, Malang</item>
+        <item>Jl. Salam Bulukerto Bumiaji, Batu, Malang</item>
+        <item>Jl. Kartika No. 3, Batu, Malang</item>
+        <item>Jl.Untung suropati no.49 Batu, Batu, Malang</item>
+        <item>Jl. Trunojoyo no. 2 Junrejo., Batu, Malang</item>
+        <item>Jl. Sultan Agung 29, Batu, Malang</item>
+        <item>Jl.Bukit Berbunga No.14 Bumiaji,Batu, Malang</item>
+        <item>Jl. Darsono 14, Batu, Batu, Malang</item>
+        <item>Jl. Ikhwan Hadi 47-49, Batu, Malang</item>
+        <item>Jl. Imam Bonjol Atas No.36, Batu, Malang</item>
+    </string-array>
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
+        <item>@drawable/l</item>
+        <item>@drawable/m</item>
+        <item>@drawable/n</item>
+        <item>@drawable/o</item>
+        <item>@drawable/p</item>
+        <item>@drawable/q</item>
+        <item>@drawable/r</item>
+        <item>@drawable/s</item>
+        <item>@drawable/t</item>
+    </array>
+</resources>

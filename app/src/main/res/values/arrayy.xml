@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="kplaces">
+        <item>Toko Oen</item>
+        <item>Soto Geprak Mbah Djo</item>
+        <item>Bakso President</item>
+        <item>Café Jagung Jaya Abadi</item>
+        <item>Warung Ronde Titoni</item>
+        <item>Rumah Makan Cairo</item>
+        <item>Pecel Kawi</item>
+        <item>Sate Landak Bu Ria</item>
+        <item>Depot Hok Lay</item>
+        <item>Pos Ketan Legenda 1967</item>
+    </string-array>
+    <string-array name="kplace_desc">
+        <item>Toko Oen menyajikan es krim berbagai rasa dan menu lainnya seperti steak, nasi goreng juga aneka kue. Tempat wisata kuliner yang satu ini telah berdiri sejak tahun 1930 dan menjadi tempat nongkrong favorit Belanda saat itu. Kesan vintage masih bisa Anda saksikan dari arsitektur bangunan dan desain interior Toko Oen. Pintu dan jendela berkaca besar, meja dan kursi rotan serta koleksi piano tua akan membawa Anda menjelalah masa lalu ditemani semangkok es krim creamy. Toko Oen menjadi salah satu tempat makan di Malang yang wajib dikunjungi. Bahkan terdapat istilah yang mengatakan, jangan bilang sudah datang ke Malang jika belum mencicipi es krim ala Toko Oen.</item>
+        <item>Kelezatan Soto Geprak Mbah Djo telah dikenal sejak tahun 1935. Tempat wisata kuliner yang didominasi warna kuning dan hijau ini tak hanya menyediakan soto, namun juga beberapa menu lainnya seperti bakso, ayam dan bebek goreng. </item>
+        <item>Menu yang ditawarkan Bakso President cukup beragam mulai dari bakso biasa, bakso urat, bakso telor, bakso bakar, bakso goreng, dan bakso udang. Tekstur aneka bakso tersebut sangat empuk. Kuah baksonya juga lezat walaupun belum ditambahi kecap dan saus. Menu bakso tersebut masih ditambah lagi dengan pangsit kering/basah, siomay, ati ampela, tahu, lontong, dan mie. Lengkap sekali sampai Bakso President ini dijuluki “pelopor bakso Malang asli full variasi”.</item>
+        <item>Cafe Jagung Jaya Abadi menyediakan jagung bakar berbagai rasa seperti manis, pedas, keju, barbeque, asin dan coklat keju. Anda juga bisa memilih ingin jagung disajikan dengan cara diserut terlebih dahulu atau dimakan dengan cara digigit langsung. Selain jagung bakar, café ini juga menawarkan menu lain seperti roti bakar dan pisang goreng. Untuk minuman, tersedia teh hangat, susu murni dan Susu Telur Madu Jahe (STMJ). Café Jagung Jaya Abadi buka setiap hari mulai pukul 5 sore sampai habis.</item>
+        <item>Warung Ronde Titoni ini menyediakan menu-menu yang cocok disantap di tengah dinginnya udara Malang, di antaranya wedang ronde, angsle, cakue, kacang kuah dan roti goreng. Selain ronde, Anda juga petut mencicipi angsle. Berbeda dengan ronde yang menggunakan air jahe, kuah dari angsle dibuat dari santan. Angsle berisi kacang hijau rebus, potongan roti tawar, pacar cina, pethulo dan kacang tanah sangrai. Angsle memiliki rasa manis gurih dengan aroma daun pandan dan vanili.</item>
+        <item>Rumah Makan Cairo menyajikan berbagai olahan daging kambing, mulai dari sate, gule, nasi kebuli sampai krengsengan. Selain itu, terdapat juga menu tambahan lain seperti roti maryam dan martabak. Rumah makan ini telah dikenal sejak tahun 1953. Olahan daging kambingnya banyak disukai karena memiliki tekstur yang lembut, rasanya gurih dan tidak bau apek. Jika berada di sini, jangan lupa memesan susu kambing Etawa yang konon baik untuk kesehatan. Rumah Makan Cairo buka setiap hari mulai pukul 8 pagi sampai 10 malam.</item>
+        <item>Pecel Kawi telah menjadi langganan banyak wisatawan sejak tahun 1979. Bumbu pecelnya dikenal memiliki rasa yang khas, manis dan gurihnya berada dalam takaran yang pas. Menemani santap pagi Anda, tersedia jamu beras kencur yang selain segar juga berkhasiat bagi kesehatan Anda. Tak hanya pecel, di sini juga tersedia nasi rawon, soto, lodeh dan campur. Jika ingin membawa bumbu pecel atau rempeyek sebagai oleh-oleh, Anda juga bisa membelinya di sini.</item>
+        <item>Sate Landak Bu Ria menyajikan ragam olahan kuliner ekstrim, di antaranya sate landak, sate bulus, dan sate biawak. Tak hanya dimasak menjadi sate, hewan yang umumnya tidak dijadikan bahan dasar sebuah masakan ini pun diolah menjadi sup. Sate Landak Bu Ria buka setiap hari mulai pukul 9 pagi sampai 9 malam.</item>
+        <item>Depot Hok Lay menyajikan lumpia khas Semarang dan juga pangsit cwiemie lezat. Kesan kuno terlihat dari arsitektur bagunan dan perabot yang ada di sini seperti jendela kaca besar, lantai tegel kuno dan juga meja-kursi kayu. Jika berada di sini, jangan lupa memesan minuman fosco yang legendaris sekaligus menjadi trademark dari depot ini. Fosco merupakan minuman yang disajikan dingin dan terbuat dari susu murni dan coklat. Uniknya, fosco ini dikemas dalam botol kaca Coca Cola bekas. Fosco dibuat dengan resep asli Belanda dan merupakan minuman favorit sejak zaman dahulu.</item>
+        <item>Pos Ketan Legenda 1967 menyediakan menu olahan berbahan dasar ketan. Siapa sangka makanan ‘ndeso’ ini bisa jadi favorit banyak orang dan sangat diminati. Ketan disajikan dengan bermacam topping, mulai dari coklat susu, susu keju, bubuk kedelai sampai ayam suwir. Yang paling banyak dicari adalah ketan durian, dibuktikan dengan cepatnya varian ini habis terjual hanya dalam waktu beberapa jam saja. Pos Ketan buka setiap hari mulai pukul 3 sore sampai 3 pagi.</item>
+    </string-array>
+    <string-array name="kplace_details">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="kplace_locations">
+        <item>Jl. Jenderal Basuki Rahmat No.5, Kauman, Klojen, Kota Malang, Jawa Timur 65119</item>
+        <item>Jl. Letnan S. Parman No. 77-79 Malang</item>
+        <item>Jl. Batanghari No.5, Rampal Celaket, Klojen, Kota Malang, Jawa Timur 65111</item>
+        <item>Jl. Pulo Sari No.15, Gading Kasri, Klojen, Kota Malang, Jawa Timur 65115</item>
+        <item>Jl. Zainul Arifin No.17, Sukoharjo, Klojen, Kota Malang, Jawa Timur 65119</item>
+        <item>Jl. Kapten Piere Tendean No.1, Kasin, Klojen, Kota Malang, Jawa Timur 65117</item>
+        <item>Jl. Kawi Atas No. 43 B, Bareng, Klojen, Bareng, Klojen, Kota Malang, Jawa Timur 65116</item>
+        <item>Jl. Raja Bugis No.47, Saptorenggo, Pakis, Malang, Jawa Timur 65154</item>
+        <item>Jl. KH Achmad Dahlan No.10, Sukoharjo, Klojen, Kota Malang, Jawa Timur 65118</item>
+        <item>Jl. Kartini No.6, Sisir, Kec. Batu, Malang, Jawa Timur 65311</item>
+    </string-array>
+    <array name="kplaces_picture">
+        <item>@drawable/za</item>
+        <item>@drawable/zb</item>
+        <item>@drawable/zc</item>
+        <item>@drawable/zd</item>
+        <item>@drawable/ze</item>
+        <item>@drawable/zf</item>
+        <item>@drawable/zg</item>
+        <item>@drawable/zh</item>
+        <item>@drawable/zi</item>
+        <item>@drawable/zj</item>
+    </array>
+</resources>
